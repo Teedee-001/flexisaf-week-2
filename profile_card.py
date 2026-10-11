@@ -1,0 +1,10 @@
+name = input("Enter your name: ")
+course = input("Enter your course: ")
+school = input("Enter your school: ")
+interest = input("Enter your interest: ")
+
+print("\n===== MY PROFILE =====")
+print(f"Name: {name}")
+print(f"Course: {course}")
+print(f"School: {school}")
+print(f"Interest: {interest}")

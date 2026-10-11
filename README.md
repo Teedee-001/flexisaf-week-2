@@ -1,7 +1,7 @@
-
 # FlexiSAF Internship — Week 2
 
 ## Topic
+
 Python Syntax, Variables, Data Types and Input/Output.
 
 ## Projects
