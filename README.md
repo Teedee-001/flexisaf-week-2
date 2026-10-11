@@ -31,3 +31,7 @@ python age_calculator.py
 python unit_converter.py
 python receipt_total.py
 python simple_interest.py
+
+## Demo Video
+
+Watch my Week 2 demo: https://drive.google.com/file/d/1hY0N06BF2At42RjCgkglyEB3wqDISYVy/view?usp=sharing
